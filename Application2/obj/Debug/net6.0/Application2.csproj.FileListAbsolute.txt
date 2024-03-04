@@ -1,0 +1,14 @@
+D:\VS Community Projects\C-Sharp-121220103\Application2\obj\Debug\net6.0\Application2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Community Projects\C-Sharp-121220103\Application2\obj\Debug\net6.0\Application2.AssemblyInfoInputs.cache
+D:\VS Community Projects\C-Sharp-121220103\Application2\obj\Debug\net6.0\Application2.AssemblyInfo.cs
+D:\VS Community Projects\C-Sharp-121220103\Application2\obj\Debug\net6.0\Application2.csproj.CoreCompileInputs.cache
+D:\VS Community Projects\C-Sharp-121220103\Application2\bin\Debug\net6.0\Application2.exe
+D:\VS Community Projects\C-Sharp-121220103\Application2\bin\Debug\net6.0\Application2.deps.json
+D:\VS Community Projects\C-Sharp-121220103\Application2\bin\Debug\net6.0\Application2.runtimeconfig.json
+D:\VS Community Projects\C-Sharp-121220103\Application2\bin\Debug\net6.0\Application2.dll
+D:\VS Community Projects\C-Sharp-121220103\Application2\bin\Debug\net6.0\Application2.pdb
+D:\VS Community Projects\C-Sharp-121220103\Application2\obj\Debug\net6.0\Application2.dll
+D:\VS Community Projects\C-Sharp-121220103\Application2\obj\Debug\net6.0\refint\Application2.dll
+D:\VS Community Projects\C-Sharp-121220103\Application2\obj\Debug\net6.0\Application2.pdb
+D:\VS Community Projects\C-Sharp-121220103\Application2\obj\Debug\net6.0\Application2.genruntimeconfig.cache
+D:\VS Community Projects\C-Sharp-121220103\Application2\obj\Debug\net6.0\ref\Application2.dll
