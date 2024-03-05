@@ -1,0 +1,17 @@
+D:\VS Community Projects\C-Sharp-121220103\Application3\obj\Debug\net6.0\Application3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Community Projects\C-Sharp-121220103\Application3\obj\Debug\net6.0\Application3.AssemblyInfoInputs.cache
+D:\VS Community Projects\C-Sharp-121220103\Application3\obj\Debug\net6.0\Application3.AssemblyInfo.cs
+D:\VS Community Projects\C-Sharp-121220103\Application3\obj\Debug\net6.0\Application3.csproj.CoreCompileInputs.cache
+D:\VS Community Projects\C-Sharp-121220103\Application3\bin\Debug\net6.0\Application3.exe
+D:\VS Community Projects\C-Sharp-121220103\Application3\bin\Debug\net6.0\Application3.deps.json
+D:\VS Community Projects\C-Sharp-121220103\Application3\bin\Debug\net6.0\Application3.runtimeconfig.json
+D:\VS Community Projects\C-Sharp-121220103\Application3\bin\Debug\net6.0\Application3.dll
+D:\VS Community Projects\C-Sharp-121220103\Application3\bin\Debug\net6.0\Application3.pdb
+D:\VS Community Projects\C-Sharp-121220103\Application3\obj\Debug\net6.0\Application3.dll
+D:\VS Community Projects\C-Sharp-121220103\Application3\obj\Debug\net6.0\refint\Application3.dll
+D:\VS Community Projects\C-Sharp-121220103\Application3\obj\Debug\net6.0\Application3.pdb
+D:\VS Community Projects\C-Sharp-121220103\Application3\obj\Debug\net6.0\Application3.genruntimeconfig.cache
+D:\VS Community Projects\C-Sharp-121220103\Application3\obj\Debug\net6.0\ref\Application3.dll
+D:\VS Community Projects\C-Sharp-121220103\Application3\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\VS Community Projects\C-Sharp-121220103\Application3\obj\Debug\net6.0\Application3.csproj.AssemblyReference.cache
+D:\VS Community Projects\C-Sharp-121220103\Application3\obj\Debug\net6.0\Application3.csproj.CopyComplete

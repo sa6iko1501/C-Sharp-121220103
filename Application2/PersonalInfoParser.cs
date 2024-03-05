@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace Application2
 {
+    /*
+     * people.json файлът изглежда странно поради енкодингът на кирилицата и "+". Смятам, че това е извън scope-а на задачата и го оставям така.
+     */
     internal class PersonalInfoParser
     {
         private String pathToInput = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..", "..", "..", "resources", "input-02.txt");
