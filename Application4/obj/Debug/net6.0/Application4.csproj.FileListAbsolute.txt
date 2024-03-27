@@ -1,0 +1,14 @@
+D:\VS Community Projects\C-Sharp-121220103\Application4\obj\Debug\net6.0\Application4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Community Projects\C-Sharp-121220103\Application4\obj\Debug\net6.0\Application4.AssemblyInfoInputs.cache
+D:\VS Community Projects\C-Sharp-121220103\Application4\obj\Debug\net6.0\Application4.AssemblyInfo.cs
+D:\VS Community Projects\C-Sharp-121220103\Application4\obj\Debug\net6.0\Application4.csproj.CoreCompileInputs.cache
+D:\VS Community Projects\C-Sharp-121220103\Application4\bin\Debug\net6.0\Application4.exe
+D:\VS Community Projects\C-Sharp-121220103\Application4\bin\Debug\net6.0\Application4.deps.json
+D:\VS Community Projects\C-Sharp-121220103\Application4\bin\Debug\net6.0\Application4.runtimeconfig.json
+D:\VS Community Projects\C-Sharp-121220103\Application4\bin\Debug\net6.0\Application4.dll
+D:\VS Community Projects\C-Sharp-121220103\Application4\bin\Debug\net6.0\Application4.pdb
+D:\VS Community Projects\C-Sharp-121220103\Application4\obj\Debug\net6.0\Application4.dll
+D:\VS Community Projects\C-Sharp-121220103\Application4\obj\Debug\net6.0\refint\Application4.dll
+D:\VS Community Projects\C-Sharp-121220103\Application4\obj\Debug\net6.0\Application4.pdb
+D:\VS Community Projects\C-Sharp-121220103\Application4\obj\Debug\net6.0\Application4.genruntimeconfig.cache
+D:\VS Community Projects\C-Sharp-121220103\Application4\obj\Debug\net6.0\ref\Application4.dll
